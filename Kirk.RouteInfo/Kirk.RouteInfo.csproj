@@ -2,16 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Authors>serpent5,Rick-Anderson,Microsoft.Docs;Kirk-Str</Authors>
+    <Authors>Kirk-Str;serpent5,Rick-Anderson,Microsoft.Docs;</Authors>
     <Company>Nope LLC</Company>
     <Product>Route Info</Product>
     <Description>Provides diagnostic output for routing.</Description>
     <RepositoryUrl>https://github.com/Kirk-Str/RouteInfo</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Kirk.RouteInfo</PackageId>
-    <AssemblyVersion>1.0.0.5</AssemblyVersion>
-    <FileVersion>1.0.0.5</FileVersion>
-    <Version>1.0.0.6</Version>
+    <AssemblyVersion>1.0.0.7</AssemblyVersion>
+    <FileVersion>1.0.0.7</FileVersion>
+    <Version>1.0.0.7</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>routing</PackageTags>

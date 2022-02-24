@@ -1,6 +1,6 @@
-# RouteInfo
-NuGet package supporting route information
+# Kirk RouteInfo
 
-Used in [Routing in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing) and several other doc.
+RouteInfo spits out routing level log outputs along with other information when logging.
 
-On NuGet at https://www.nuget.org/packages/Rick.Docs.Samples.RouteInfo
+Added .Net Core Support to the existing NuGet Package 'RouteInfo'
+
